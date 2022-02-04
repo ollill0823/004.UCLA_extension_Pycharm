@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def words(filename):
     filename= open(filename, 'r', encoding="utf-8")
     f = filename.read()
@@ -12,4 +13,13 @@ def words(filename):
 a=words('i-have-a-dream.txt')
 print(a)
 
+=======
+with open ('i-have-a-dream.txt', 'r', encoding="utf-8") as f:
+    article=f.read()
+    split=article.split()
+
+print(split)
+
+
+>>>>>>> origin/main
 

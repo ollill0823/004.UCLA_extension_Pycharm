@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def myGrep(filename,target):
     filename=open(filename, 'r', encoding="utf-8")
     f=filename.read()
@@ -11,3 +12,16 @@ def myGrep(filename,target):
 
 
 a=myGrep('i-have-a-dream.txt','I have a dream')
+=======
+def words(filename):
+    filename= open(filename, 'r', encoding="utf-8")
+    f = filename.read()
+    split = f.split()
+
+    return split
+
+a=words('i-have-a-dream.txt')
+print(a)
+
+
+>>>>>>> origin/main

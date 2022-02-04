@@ -1,0 +1,4 @@
+This is a line.
+This is a new line.
+This is another new line. Let's continue this line.
+I'm done. Bye bye.
