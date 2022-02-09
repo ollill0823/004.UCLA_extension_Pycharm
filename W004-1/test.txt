@@ -1,4 +1,0 @@
-This is the first line. Still the first time...
-Now we are in the second line.
-Non string value like 5 must be converted first.
-Non string value like 5 must bu converted first.

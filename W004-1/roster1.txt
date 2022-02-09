@@ -1,7 +1,0 @@
-First     Last      Age  Mt    Wt  
-Anna      Barbara   35  5'0"  131.1
-Catherine Do        45  5'5"  137.8
-Eric      Fredrick  28  5'5"  142.3
-Gabriel   Hernandez 55  5'10" 152.4
-Ivy       Joo       31  4'7"  127.7
-Kelly     Marks     21  6'3"  134.4
