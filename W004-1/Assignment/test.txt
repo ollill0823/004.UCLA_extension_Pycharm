@@ -1,0 +1,16 @@
+    First                                Last Age       Occupation    Ht  Wt Lifestyle 
+     Anna                             Barbara  35            nurse  5'3" 129  Moderate 
+Catherine                                  Do  45        physicist  5'5" 135    Active 
+     Eric                           Frederick  28          teacher  5'5" 140  Moderate 
+  Gabriel                           Hernandez  55          surgeon  5'7" 150 Sedentary 
+      Ivy                                 Joo  31         engineer  5'2" 126 Sedentary 
+    Kelly                               Marks  21          student  5'4" 132    Active 
+    Nancy                               Owens  60     immunologist  5'8" 170 Sedentary 
+ Patricia                                 Qin  36 dental assistant 4'11" 110 Sedentary 
+ Roderick                           Stevenson  51       bus driver  5'6" 160 Sedentary 
+    Tracy                          Umfreville  42      audiologist  5'7" 156 Sedentary 
+ Victoria Wolfeschlegelsteinhausenbergerdorff  38     data analyst  5'8" 158  Moderate 
+     Lucy                                  Xi  49        professor  5'9" 161  Moderate 
+  Yolanda                             Zachary  58        secretary 5'10" 164 Sedentary 
+        1                                   1   1                1 5'10"   1 Sedentary 
+        1                                   1   1                1 5'10"   1 Sedentary 
