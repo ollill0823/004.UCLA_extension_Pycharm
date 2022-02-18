@@ -1,0 +1,11 @@
+term	definition
+break	Used to exit a for loop or a while loop.
+continue	Used to skip the current block, and return to the "for" or "while" statement
+dictionary	A mutable associative array (or dictionary) of key and value pairs. 
+float	An immutable floating point number.
+immutable	Cannot be changed after its created.
+int	An immutable integer of unlimited magnitude.
+pass	Needed to create an empty code block
+set	Unordered set, contains no duplicates
+string	Can include numbers, letters, and various symbols and be enclosed by either double or single quotes
+while	Executes a block of code as long as its condition is true.

@@ -1,0 +1,21 @@
+vocablist-1.txt
+Y 2 IDLE
+Integrated development environment
+if
+Conditionally executes a block of code
+Y 0 N
+vocablist2.txt
+
+vocablist-1.txt
+Y 1.5 -4 one 2 break N if 
+Conditionally executes a block of code
+Y 0 N
+vocabulary.txt
+
+vocablist-1.txt
+Y 1.5 -4 one 2 break Y 
+Used to exit a loop
+if
+Conditionally executes a block of code
+Y 0 N
+mynewvocablist.txt

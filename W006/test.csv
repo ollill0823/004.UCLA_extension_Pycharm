@@ -1,0 +1,14 @@
+first,last,age,occupation,height,weight,sedentary,moderate,active
+Anna,Barbara,35,nurse,63,129,,x,
+Catherine,Do,45,physicist,65,135,,,x
+Eric,Frederick,28,teacher,65,140,,x,
+Gabriel,Hernandez,55,surgeon,67,150,x,,
+Ivy,Joo,31,engineer,62,126,x,,
+Kelly,Marks,21,student,64,132,,,x
+Nancy,Owens,60,immunologist,68,170,x,,
+Patricia,Qin,36,dental assistant,59,110,x,,
+Roderick,Stevenson,51,bus driver,66,160,x,,
+Tracy,Umfreville,42,audiologist,67,156,x,,
+Victoria,Wolfeschlegelsteinhausenbergerdorff,38,data analyst,68,158,,x,
+Lucy,Xi,49,professor,69,161,,x,
+Yolanda,Zachary,58,secretary,70,164,x,,

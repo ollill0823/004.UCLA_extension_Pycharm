@@ -1,0 +1,12 @@
+def list(a,b):
+    num=a.copy()
+    for i in range(len(a)):
+        for j in range(len(a[0])):
+            num[i][j]=a[i][j]*b[i][j]
+    return num
+
+alist=[[1,2,3],[2,4,6],[2,8,18]]
+blist=[[4,5,6],[3,5,7],[9,5,42]]
+
+c=list(alist,blist)
+print(c)

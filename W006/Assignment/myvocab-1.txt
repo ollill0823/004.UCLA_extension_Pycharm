@@ -1,0 +1,9 @@
+term	definition
+stem	produce a stem and leaf plot
+abline	draw a straight line
+points	draw points on the current plot
+print	print output
+stripchart	produce a strip chart
+sunflowerplot	produce a sunflower plot
+qqline	add a line to a QQ plot
+cor	calculate the Pearson correlation coefficient
